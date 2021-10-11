@@ -1,0 +1,22 @@
+body {
+    background: #1a202c !important;
+    color: #e7e8f2 !important;
+
+}
+
+
+#table_id {
+    color: #1a202c;
+    font-weight: 700;
+}
+
+.button-list {
+    background: #ff2d20;
+    color: #e7e8f2 !important;
+
+}
+
+.card-hotels {
+    background: #e7e8f2 !important;
+    color: #1a202c;
+}
